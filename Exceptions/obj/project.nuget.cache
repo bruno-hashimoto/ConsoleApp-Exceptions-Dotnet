@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u3ocPRJkLUTxc5kgaF4CmzJeHC9yhWPSvflE4JXdlfVK6lAmEbLRFIGO0HajbG+NEKsuS3T110oN9Bj3BZPpHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno.muniz\\Desktop\\Exceptions\\Exceptions\\Exceptions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno.muniz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
